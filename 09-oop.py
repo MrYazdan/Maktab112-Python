@@ -66,6 +66,8 @@ def main():
 
 main()
 
+# class Player
+# class Setting
 
 class Setting:
     Round = 3
